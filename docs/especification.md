@@ -62,16 +62,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| 
 |RF-001| Cadastro de Usuário: O sistema deve permitir que doadores e adotantes criem                             | MÉDIA |
 contas com e-mail e senha.     
-
 |RF-002|  CRUD de Animais: O usuário doador deve conseguir cadastrar, visualizar, editar e                       | ALTA  |
 excluir anúncios de animais.
-
 |RF-003| Atributos do Pet: O cadastro deve incluir campos obrigatórios: Nome, Espécie                            | ALTA  | 
 (Cão/Gato/Outros), Porte (Pequeno/Médio/Grande), Sexo e Idade aproximada.
-
 |RF-004| Galeria de Fotos: O sistema deve permitir o upload de pelo menos uma foto por                           | MÉDIA | 
 animal cadastrado.    
-
 |RF-005| Formulário de Contato: O sistema deve disponibilizar um botão de WhatsApp ou                            | MÉDIA | 
 chat interno para iniciar a conversa sobre a adoção.
                    
@@ -83,17 +79,12 @@ chat interno para iniciar a conversa sobre a adoção.
 |-------|-------------------------|----|
 |RNF-001| Responsividade: A interface deve ser adaptável para dispositivos móveis, garantindo                 | ALTA  |
 acessibilidade em tablets e smartphones.
- 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Desempenho: O sistema deve carregar as listas de animais em menos de 2                              | BAIXA |
+segundos sob condições normais de rede 
+|RF-003| Disponibilidade: O sistema deve estar disponível via web 24/7                                        | MÉDIA | 
+|RF-004| Acessibilidade: O site deve seguir diretrizes básicas de contraste e tags ARIA para                  | MÉDIA | 
+leitores de tela, visando o Design Universal.    
 
-|RF-003| Atributos do Pet: O cadastro deve incluir campos obrigatórios: Nome, Espécie                            | ALTA  | 
-(Cão/Gato/Outros), Porte (Pequeno/Médio/Grande), Sexo e Idade aproximada.
-
-|RF-004| Galeria de Fotos: O sistema deve permitir o upload de pelo menos uma foto por                           | MÉDIA | 
-animal cadastrado.     
-
-|RF-005| Formulário de Contato: O sistema deve disponibilizar um botão de WhatsApp ou                            | MÉDIA | 
-chat interno para iniciar a conversa sobre a adoção.
                    
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
