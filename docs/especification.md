@@ -66,6 +66,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Galeria de Fotos: O sistema deve permitir o upload de pelo menos uma foto por animal cadastrado.                                                                                 | MÉDIA |   
 |RF-005| Formulário de Contato: O sistema deve disponibilizar um botão de WhatsApp ou chat interno para iniciar a conversa sobre a adoção.                                                | MÉDIA |
 
+
                    
 
 
