@@ -25,25 +25,23 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 ## Histórias de Usuários
 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Administrador  | Disponibilizar formas de contato   | Agilizar o processo de adoção                   |
-|Administrador  | Cadastrar ONGs mais próximas       | Facilitar a adoção                              |
-|Administrador  | Criar filtros para o aplicativo    | Para que a escolha do animal ideal seja efetiva |
-|Administrador  | Disponibilizar atualizações        | Promover a fluidez do aplicativo                |
-|Administrador  | Cadastrar várias ONGs              | Fornecer mais opções para o cliente             |
-|Administrador  | Disponibilizar adaptações para     | Para que seja accessível para todos             |
-|               |  todos os tipos de dispositivos    |                                                 |
-|Administrador  | Layout acessível                   | Facilitar a navegação do usuário                |
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                  |
-|Usuário do sistema | Saber detalhes sobre o animal                   | Para escolher o animal ideal               |
-|Usuário do sistema | Ter respostas rápidas                           | Tirar as dúvidas existentes                |
-|Usuário do sistema |Facilidade na navegação                          | Facilitar a adoção                         |
-|Usuário do sistema | Ter acesso a dados sobre as ONGs                | Para verificar se elas são confiáveis      |
-|Usuário do sistema | Ter dicas sobre como cuidar melhor de um animal | Gerar conforto e segurança para o pet      |
-|Usuário do sistema | Poder compartilhar informações                  | Para engajar novas pessoas a adotarem      |
-|Usuário do sistema |Fazer doações online                             | Para ajudar as ONGs deforma rápida e fácil |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`             |PARA ... `MOTIVO/VALOR`                 |
+|-------------------|-------------------------------------------------|--------------------------------------------------|
+|Administrador      | Disponibilizar formas de contato                | Agilizar o processo de adoção                    |
+|Administrador      | Cadastrar ONGs mais próximas                    | Facilitar a adoção                               |
+|Administrador      | Criar filtros para o aplicativo                 | Para que a escolha do animal ideal seja efetiva  |
+|Administrador      | Disponibilizar atualizações                     | Promover a fluidez do aplicativo                 |
+|Administrador      | Cadastrar várias ONGs                           | Fornecer mais opções para o cliente              |
+|Administrador      | Disponibilizar adaptações para                  | Para que seja accessível para todos              |
+|                   |  todos os tipos de dispositivos                 |                                                  |
+|Administrador      | Layout acessível                                | Facilitar a navegação do usuário                 |
+|Usuário do sistema | Saber detalhes sobre o animal                   | Para escolher o animal ideal                     |
+|Usuário do sistema | Ter respostas rápidas                           | Tirar as dúvidas existentes                      |
+|Usuário do sistema |Facilidade na navegação                          | Facilitar a adoção                               |
+|Usuário do sistema | Ter acesso a dados sobre as ONGs                | Para verificar se elas são confiáveis            |
+|Usuário do sistema | Ter dicas sobre como cuidar melhor de um animal | Gerar conforto e segurança para o pet            |
+|Usuário do sistema | Poder compartilhar informações                  | Para engajar novas pessoas a adotarem            |
+|Usuário do sistema |Fazer doações online                             | Para ajudar as ONGs deforma rápida e fácil       |
 
 
 
