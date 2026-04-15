@@ -1,12 +1,19 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O crescimento desordenado das áreas urbanas e a falta de políticas públicas efetivas
+refletem-se diretamente no aumento do abandono de animais. Segundo dados da
+Organização Mundial da Saúde (OMS), o Brasil possui dezenas de milhões de animais em
+situação de rua. Esse cenário constitui um grave desafio social e de saúde pública, no qual
+cidadãos e ONGs frequentemente buscam auxílio em suas redes de apoio para lidar com os
+resgates e superlotações.
+Dentre as dificuldades enfrentadas, observa-se a falta de ferramentas centralizadas para a
+divulgação e o gerenciamento de adoções, visto que as ONGs operam acima de sua
+capacidade e o cidadão comum, ao encontrar um animal, esbarra na falta de conhecimento
+e de canais eficientes para encontrar um novo lar para ele.
+Dessa forma, torna-se necessário cobrir essa lacuna tecnológica, para que o bem-estar
+animal não seja ainda mais afetado e para que a população tenha o suporte necessário ao
+tentar realizar uma doação responsável.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
