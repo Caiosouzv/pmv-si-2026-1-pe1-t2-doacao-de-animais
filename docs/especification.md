@@ -1,10 +1,20 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+O projeto visa atender três perfis de usuários: adotante, doadores, e Projetos
+Municipais de Resgate/ ONGs.
 
+● Os que desejam adotar buscam animais disponíveis para adoção;
+● doadores que não podem ficar com os animais buscam registrar para que
+fiquem disponíveis aos adotantes;
+● projetos municipais de resgate de animais e ONGs necessitam disponibilizar
+os animais resgatados aos adotantes para que possam buscar novos animais
+sem sobrecarregar as instituições.
+
+
+
+**Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
+Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/**
 
 ## Personas
  - Adotante
