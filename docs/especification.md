@@ -136,8 +136,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01|O site será desenvolvido utilizando o  HTML,  CSS ou Java script.                                                       |
+|02|O desenvolvimento será feito por iniciantes, então o sistema será mais simples e focado na apresentação de informações. |
+|03|O projeto deve ser finalizado até o final do semestre.                                                                  |
+|04|O site será desenvolvido para fins acadêmicos.                                                                          |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
