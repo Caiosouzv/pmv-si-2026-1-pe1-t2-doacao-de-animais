@@ -21,7 +21,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 O objetivo do wireframe do nosso site é facilitar a navegação do usuário e planejar um sistema visualmente atrativo, focado em auxiliar no processo de adoção, contribuindo para aumentar as chances de sucesso.
 
-[https://www.figma.com/site/ZOO8VfcLVItzkpR0VXhpHL/Wireframes?node-id=0-1&t=xOOM0zqFEUE5d8xq-1]
+https://www.figma.com/site/ZOO8VfcLVItzkpR0VXhpHL/Wireframes?node-id=0-1&t=xOOM0zqFEUE5d8xq-1
 
 ### Exemplo
 
