@@ -40,8 +40,11 @@ Essas informações poderão ser disponibilizadas para as ONGs parceiras caso ha
 Além disso, o sistema também conta com a opção de login para usuários já cadastrados, garantindo acesso às funcionalidades de forma mais prática.
 O menu lateral apresenta tópicos como início, como funciona, buscar pet, fazer quiz, doar, contato, meus anúncios e ONGs parceiras. Esses tópicos ajudam na navegação, pois redirecionam o usuário diretamente para a área desejada, tornando o uso do site mais simples e objetivo.
 
+
 <img width="527" height="452" alt="image" src="https://github.com/user-attachments/assets/7042c11c-20db-4756-b101-0b269d0dcccd" />
+
 <img width="535" height="450" alt="image" src="https://github.com/user-attachments/assets/430e8bf4-6374-410c-989d-781414e188cd" />
+
 <img width="532" height="451" alt="image" src="https://github.com/user-attachments/assets/e8c115bb-429e-4edb-9fa4-b3e7f34187af" />
 
 **Pet's disponiveis**
@@ -49,13 +52,16 @@ O menu lateral apresenta tópicos como início, como funciona, buscar pet, fazer
 Parte em que o usuário pode ter uma breve noção dos animais disponíveis, podendo analisar qual gostaria de adotar. Os botões, imagens e as informações básicas ajudam a aproximar mais o usuário do animal, gerando maior identificação e, assim, facilitando o processo de adoção e o engajamento com a causa.
 Além disso, há uma área clicável onde o usuário pode acessar informações mais detalhadas sobre um pet que tenha despertado interesse.
 
+
 <img width="534" height="452" alt="image" src="https://github.com/user-attachments/assets/28851285-54d4-474d-b482-772d304de8b5" />
+
 <img width="533" height="460" alt="image" src="https://github.com/user-attachments/assets/b0632a65-b9cf-4541-b30e-1ce91e0d04c1" />
 
 **Quiz**
 
 Criamos essa aba para facilitar a escolha do usuário e ajudar a encontrar um lar adequado para os animais, considerando suas necessidades. Dessa forma, buscamos contribuir para uma escolha mais assertiva e uma melhor adaptação do pet ao novo ambiente.
 Nessa área, haverá botões que incentivam a adoção e um questionário básico, que ajudará a direcionar o usuário para a melhor opção de acordo com suas limitações e estilo de vida. Ao final do quiz, será apresentada uma sugestão de animal, junto com uma breve descrição e o motivo pelo qual ele é a melhor alternativa.
+
 
 <img width="538" height="455" alt="image" src="https://github.com/user-attachments/assets/0531fe15-877b-4ce1-b771-5c7f4ab613a1" />
 
@@ -75,8 +81,11 @@ Os formulários de cadastro das ONGs devem conter, inicialmente, informações b
 Posteriormente, haverá a etapa em que as instituições poderão cadastrar os animais disponíveis para adoção. Esse processo será semelhante ao cadastro das ONGs, sendo necessário incluir fotos dos animais, informações sobre sua saúde e uma breve descrição.
 
 <img width="528" height="445" alt="image" src="https://github.com/user-attachments/assets/04107020-1570-43d4-b254-314c8ab41e1f" />
+
 <img width="523" height="452" alt="image" src="https://github.com/user-attachments/assets/bdcc5b29-cdc8-4973-a950-a0fa12c54e2b" />
+
 <img width="528" height="451" alt="image" src="https://github.com/user-attachments/assets/60ca7608-bd03-42cc-af1e-dfe9bfa3dd60" />
+
 
 **ONG's pareceiras**
 
