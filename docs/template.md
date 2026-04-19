@@ -2,11 +2,9 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-Explique as guias de estilo utilizadas no seu projeto.
-
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+Apresentamos um design interativo que utiliza ícones objetivos e fluxos de página para guiar o usuário no processo facilitado de adoção e doação de animais domésticos.
 
 https://www.figma.com/make/dqkhITqgx1ve5O8sayrkNx/Modelo-1?fullscreen=1&t=TBjhPYEhcsIXnXnE-1
 
