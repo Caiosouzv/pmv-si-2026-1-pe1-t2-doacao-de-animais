@@ -1,15 +1,87 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+### 1. Fluxo de Adoção (Busca Direta)
+*Indicado para o usuário que já possui um perfil de animal em mente.*
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+1. **Página Inicial (Home):** O usuário utiliza a barra de busca ou clica em "Ver pets disponíveis".
+2. **Vitrine de Pets (`/pets-disponiveis`):** Navegação pela grade de animais.
+   - Botão **"Adote"**: Atalho direto para o formulário.
+   - Botão **"i"**: Acesso aos detalhes completos.
+3. **Detalhes do Pet:** Análise de idade, peso, status de saúde e personalidade.
+4. **Ação Final:** Clique em **"Quero Adotar o animal!"** para iniciar o processo.
+
+<img width="529" height="448" alt="image" src="https://github.com/user-attachments/assets/d017ccbb-5ecb-4ed5-ac37-d6c70ea42ae9" />
+
+<img width="534" height="452" alt="image" src="https://github.com/user-attachments/assets/3763b01c-04c5-40d0-8d56-255dee0df1d6" />
+
+
+---
+
+### 2. Fluxo de Descoberta (Match Perfeito)
+*Para usuários que buscam uma recomendação baseada em seu estilo de vida.*
+
+* **Entrada:** O usuário seleciona "Fazer quiz" no menu de navegação.
+* **Interação (`/quiz`):** Responde a 3 perguntas fundamentais (moradia, convivência e nível de atividade).
+* **Processamento (`/resultado-do-quiz`):** A plataforma exibe o pet ideal com a justificativa do "match".
+* **Ação Final:** Clique em **"Adote agora!"** para visualizar os animais com aquele perfil.
+
+<img width="538" height="455" alt="image" src="https://github.com/user-attachments/assets/dc36c31f-acde-4269-9d65-23848c00afce" />
+
+<img width="532" height="448" alt="image" src="https://github.com/user-attachments/assets/a2fd9921-8a0b-4280-854d-e8cdc79eea93" />
+
+
+---
+
+### 3. Fluxo de Doação e Apoio
+*Focado em usuários que desejam contribuir com a causa financeiramente ou com serviços.*
+
+1. **Menu:** Seleção da opção "Doar".
+2. **Página de Doação (`/DOAÇÃO`):** Visualização do impacto social e escolha do valor.
+3. **Ação Final:** Clique em **"Doar agora!"**.
+   - *Opções secundárias:* Doação de itens, voluntariado ou compartilhamento.
+
+ <img width="533" height="449" alt="image" src="https://github.com/user-attachments/assets/8e15bb49-2705-48e3-8e24-18ea821f4b65" />
+
+---
+
+### 4. Fluxo de Autenticação (Acesso à Conta)
+*Gestão de segurança para usuários comuns e instituições.*
+
+* **Início:** Clique em "Entre ou cadastre-se" no topo do site.
+* **Login (`/entrar-no-seu-cadastro`):** Acesso via e-mail e senha.
+* **Cadastro (`/cadastrar-na-pagina`):** Fluxo para novos usuários (Nome, E-mail, Telefone e Senha).
+* **Ação Final:** Botão **"Criar conta"** para acesso imediato.
+
+  <img width="535" height="450" alt="image" src="https://github.com/user-attachments/assets/ba8b3939-f541-43fd-98d2-4cf8821d50fc" />
+
+  <img width="532" height="451" alt="image" src="https://github.com/user-attachments/assets/09fa1325-c97c-48e8-8749-d455e81151be" />
+
+
+---
+
+### 5. Fluxo da ONG (Gestão e Cadastro)
+*Fluxo administrativo exclusivo para organizações parceiras gerenciarem seus abrigos.*
+
+| Etapa | Página | Funcionalidade |
+| :--- | :--- | :--- |
+| **Parceria** | `/DOAÇÃO-3` | Informações sobre o programa e adesão. |
+| **Cadastro Institucional** | `/DOAÇÃO-4` | Registro de CNPJ, localização e documentação da ONG. |
+| **Painel de Controle** | `/DOAÇÃO-7` | Dashboard com métricas: Animais, Adoções e Visualizações. |
+| **Gestão de Anúncios** | `/DOAÇÃO-7` | Lista de animais cadastrados com opções de "Editar" ou "Excluir". |
+| **Cadastro de Pet** | `/DOAÇÃO-6` | Formulário técnico: Foto, espécie, porte, sexo e descrição. |
+| **Visibilidade** | `/DOAÇÃO-5` | Listagem pública na página de "ONGs Parceiras". |
+
+<img width="523" height="452" alt="image" src="https://github.com/user-attachments/assets/607aec8f-e2d8-412b-afc2-2e4cc32d4f64" />
+
+<img width="532" height="449" alt="image" src="https://github.com/user-attachments/assets/1167cd0f-7f0f-4608-9ab1-66bb9873365e" />
+
+<img width="528" height="451" alt="image" src="https://github.com/user-attachments/assets/a3b44486-9dfe-4ae0-83a1-663cf2997604" />
+
+
+---
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
