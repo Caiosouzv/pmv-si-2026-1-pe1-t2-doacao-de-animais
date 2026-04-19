@@ -35,6 +35,7 @@ Outro ponto foi o uso de mensagens com apelo emocional, com o objetivo de engaja
 
 **Menu e Aba de cadastro/entrar**
 
+
 Também haverá uma área onde os usuários poderão se cadastrar ou entrar no sistema. Nessa parte, o usuário informa dados como nome, e-mail, telefone e senha, permitindo a criação de uma conta.
 Essas informações poderão ser disponibilizadas para as ONGs parceiras caso haja interesse em algum animal, facilitando o contato e tornando o processo de adoção mais rápido e organizado.
 Além disso, o sistema também conta com a opção de login para usuários já cadastrados, garantindo acesso às funcionalidades de forma mais prática.
@@ -49,6 +50,7 @@ O menu lateral apresenta tópicos como início, como funciona, buscar pet, fazer
 
 **Pet's disponiveis**
 
+
 Parte em que o usuário pode ter uma breve noção dos animais disponíveis, podendo analisar qual gostaria de adotar. Os botões, imagens e as informações básicas ajudam a aproximar mais o usuário do animal, gerando maior identificação e, assim, facilitando o processo de adoção e o engajamento com a causa.
 Além disso, há uma área clicável onde o usuário pode acessar informações mais detalhadas sobre um pet que tenha despertado interesse.
 
@@ -59,6 +61,7 @@ Além disso, há uma área clicável onde o usuário pode acessar informações 
 
 **Quiz**
 
+
 Criamos essa aba para facilitar a escolha do usuário e ajudar a encontrar um lar adequado para os animais, considerando suas necessidades. Dessa forma, buscamos contribuir para uma escolha mais assertiva e uma melhor adaptação do pet ao novo ambiente.
 Nessa área, haverá botões que incentivam a adoção e um questionário básico, que ajudará a direcionar o usuário para a melhor opção de acordo com suas limitações e estilo de vida. Ao final do quiz, será apresentada uma sugestão de animal, junto com uma breve descrição e o motivo pelo qual ele é a melhor alternativa.
 
@@ -66,6 +69,7 @@ Nessa área, haverá botões que incentivam a adoção e um questionário básic
 <img width="538" height="455" alt="image" src="https://github.com/user-attachments/assets/0531fe15-877b-4ce1-b771-5c7f4ab613a1" />
 
 **Doações**
+
 
 Essa parte foi criada para engajar a comunidade a contribuir com o funcionamento das ONGs. Nela, os usuários podem doar qualquer valor, contando também com mensagens motivacionais que incentivam a participação na causa.
 Além disso, há botões chamativos que buscam atrair a atenção do usuário e incentivar ainda mais a contribuição, junto com depoimentos de outros doadores, o que ajuda a gerar mais confiança.
@@ -75,6 +79,7 @@ O principal objetivo dessa área é aumentar o engajamento com a causa animal e 
 <img width="533" height="449" alt="image" src="https://github.com/user-attachments/assets/8b3cc349-8fe7-4a46-9dfe-af2efe2c7668" />
 
 **ONG's cadatradas/ cadastrar sua ONG**
+
 
 Para gerar maior participação das pessoas, é importante que o público tenha confiança. Por isso, nessa parte apresentamos as ONGs parceiras do site, além de informações como quantidade de animais resgatados, número de voluntários, entre outros dados relevantes.
 Os formulários de cadastro das ONGs devem conter, inicialmente, informações básicas da instituição, com o objetivo de aumentar a confiabilidade. Entre esses dados estão: nome, contato, CNPJ, localização, site oficial, entre outros. Ao final, haverá uma seção para envio de documentos essenciais, concluindo o cadastro.
@@ -89,6 +94,7 @@ Posteriormente, haverá a etapa em que as instituições poderão cadastrar os a
 
 **ONG's pareceiras**
 
+
 Nessa parte, o usuário terá acesso a informações básicas sobre as ONGs cadastradas, além dos dados de contato, caso queira falar diretamente com a instituição. Isso permite tirar dúvidas sobre o processo de adoção ou até mesmo agendar uma visita ao local.
 Por isso, é importante ter um botão chamativo de “entrar em contato”, facilitando esse acesso. Também são apresentados dados essenciais, como localização, telefone e outras informações relevantes, tornando a comunicação mais rápida e prática.
 
@@ -96,12 +102,14 @@ Por isso, é importante ter um botão chamativo de “entrar em contato”, faci
 
 **Meus anuncios**
 
+
 É importante que as ONGs consigam gerenciar os anúncios dos animais de forma prática. Por isso, elas poderão apagar um anúncio quando o pet for adotado, alterar suas informações, visualizar quais ainda estão ativos e acompanhar quantas pessoas visitaram cada pet.
 Pensando nisso, será disponibilizada uma aba de fácil acesso e edição, com todas as ferramentas necessárias para agilizar o processo de adoção e aumentar as chances de sucesso.
 
 <img width="532" height="449" alt="image" src="https://github.com/user-attachments/assets/32e8711e-8d5a-4976-9cb4-483d8353bddb" />
 
 **Duvidas e fechamneto do site**
+
 
 Teremos botões e títulos chamativos para que o usuário que estiver procurando suporte encontre facilmente as informações e consiga resolver suas dúvidas.
 Ao final da página, haverá um menu minimalista, onde o usuário pode voltar para outras abas do site que desejar acessar.
